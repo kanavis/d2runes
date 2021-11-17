@@ -6,5 +6,5 @@ RUN pip install -r requirements.txt
 COPY web /app/
 COPY runewords.json /app/
 COPY runes.txt /app
-RUN /app/manage.py load_runes runes.txt runewords.json
+RUN python /app/manage.py load_runes runes.txt runewords.json
 
