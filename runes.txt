@@ -1,0 +1,110 @@
+
+Rune	to Upgrade:	Socketed Properties
+El - #1	R-el.gif	--	Weapon: +50 AR, +1 Light Radius
+Armor/Helm/Shield: +1 Light Radius, +15 Defense
+Clvl Required: 11
+Eld - #2	R-eld.gif	R-el.gifR-el.gifR-el.gif	Weapon: +75% Damage vs. Undead, +50 Attack Rating vs. Undead *
+Armor/Helm: Lowers Stamina drain by 15%
+Shield: +7% Blocking
+Clvl Required: 11
+Tir - #3	R-tir.gif	R-eld.gifR-eld.gifR-eld.gif	Weapon: +2 Mana Per Kill
+Armor/Helm/Shield: +2 Mana Per Kill.
+Clvl Required: 13
+Nef - #4	R-nef.gif	R-tir.gifR-tir.gifR-tir.gif	Weapon: Knockback
+Armor/Helm/Shield: +30 Defense vs. Missile
+Clvl Required: 13
+Eth - #5	R-eth.gif	R-nef.gifR-nef.gifR-nef.gif	Weapon: -25% Target Defense
+Armor/Helm/Shield: Regenerate Mana 15%
+Clvl Required: 15
+Ith - #6	R-ith.gif	R-eth.gifR-eth.gifR-eth.gif	Weapon: +9 to Maximum Damage
+Armor/Helm/Shield: 15% Damage Taken Goes to Mana
+Clvl Required: 15
+Tal - #7	R-tal.gif	R-ith.gifR-ith.gifR-ith.gif	Weapon: 75 Poison damage over 5 seconds
+Armor/Helm: +30% Poison Resistance
+Shield: +35% Poison Resistance
+Clvl Required: 17
+Ral - #8	R-ral.gif	R-tal.gifR-tal.gifR-tal.gif	Weapon: +5-30 Fire Damage
+Armor/Helm: +30% Fire Resistance
+Shield: +35% Fire Resistance
+Clvl Required: 19
+Ort - #9	R-ort.gif	R-ral.gifR-ral.gifR-ral.gif	Weapon: +1-50 Lightning Damage
+Armor/Helm: +30% Lightning Resistance
+Shield: +35% Lightning Resistance
+Clvl Required: 21
+Thul - #10	R-thul.gif	R-ort.gifR-ort.gifR-ort.gif	Weapon: +3-14 Cold Damage (Cold Length 3 seconds)
+Armor/Helm: +30% Cold Resistance
+Shield: +35% Cold Resistance
+Clvl Required: 23
+Amn - #11	R-amn.gif	R-thul.gifR-thul.gifR-thul.gifTopaz-chipped.gif	Weapon: 7% Life Stolen Per Hit
+Armor/Helm/Shield: Attacker takes 14 damage
+Clvl Required: 25
+Sol - #12	R-sol.gif	R-amn.gifR-amn.gifR-amn.gifAmethyst-chipped.gif	Weapon: +9 to Minimum Damage
+Armor/Helm/Shield: -7 Damage Taken
+Clvl Required: 27
+Shael - #13	R-shae.gif	R-sol.gifR-sol.gifR-sol.gifSapphire-chipped.gif	Weapon: Faster Attack Rate (+20)
+Armor/Helm: Faster Hit Recovery (+20)
+Shields: Faster Block Rate (+20)
+Clvl Required: 29
+Dol - #14	R-dol.gif	R-shae.gifR-shae.gifR-shae.gifRuby-chipped.gif	Weapon: 25% Chance that Hit Causes Monster to Flee
+Armor/Helm/Shield: +7 Replenish Life
+Clvl Required: 31
+Hel - #15	R-hel.gif	R-dol.gifR-dol.gifR-dol.gifEmerald-chipped.gif	Weapon: -20% Requirements
+Armor/Helm/Shield: -15% Requirements
+Ilvl: 33 Clvl Required: None
+Io - #16	R-io.gif po.gif	R-hel.gifR-hel.gifR-hel.gifDiamond-chipped.gif	Weapon: +10 Vitality
+Armor/Helm/Shield: +10 Vitality
+Clvl Required: 35
+Lum - #17	R-lum.gif	R-io po.gifR-io po.gifR-io po.gifTopaz-flawed.gif	Weapon: +10 Energy
+Armor/Helm/Shield: +10 Energy
+Clvl Required: 37
+Ko - #18	R-ko.gif	R-lum.gifR-lum.gifR-lum.gifAmethyst-flawed.gif	Weapon: +10 Dexterity
+Armor/Helm/Shield: +10 Dexterity
+Clvl Required: 39
+Fal - #19	R-fal.gif	R-ko.gifR-ko.gifR-ko.gifSapphire-flawed.gif	Weapon: +10 Strength
+Armor/Helm/Shield: +10 Strength
+Clvl Required: 41
+Lem - #20	R-lem.gif	R-fal.gifR-fal.gifR-fal.gifRuby-flawed.gif	Weapon: +75% Extra Gold from Monsters
+Armor/Helm/Shield: +50% Extra Gold from Monsters
+Clvl Required: 43
+Pul - #21	R-pul.gif	R-lem.gifR-lem.gifR-lem.gifEmerald-flawed.gif	Weapon: +75% Damage to Demons, +100 AR against Demons
+Armor/Helm/Shield:+30% Defense
+Clvl Required: 45
+Um - #22	R-um.gif	R-pul.gifR-pul.gifDiamond-flawed.gif	Weapon: 25% Chance of Open Wounds
+Armor/Helm: +15% Resist All
+Shields: +22% Resist All
+Clvl Required: 47
+Mal - #23	R-mal.gif	R-um.gifR-um.gifTopaz-normal.gif	Weapon: Prevent Monster Healing
+Armor/Helm/Shield: Reduce Magic Damage by 7
+Clvl Required: 49
+Ist - #24	R-ist.gif	R-mal.gifR-mal.gifAmethyst-normal.gif	Weapon: +30% Better Chance of Finding Magical Items
+Armor/Helm/Shield: +25% Better Chance of Finding Magical Items
+Clvl Required: 51
+Gul - #25	R-gul.gif	R-ist.gifR-ist.gifSapphire-normal.gif	Weapon: +20% AR
+Armor/Helm/Shield: +5 to Max Resist Poison
+Clvl Required: 53
+Vex - #26	R-vex.gif	R-gul.gifR-gul.gifRuby-normal.gif	Weapon: 7% Mana Leech
+Armor/Helm/Shield: +5 to Max Fire Resist
+Clvl Required: 55
+Ohm - #27	R-ohm.gif	R-vex.gifR-vex.gifEmerald-normal.gif	Weapon: +50% Damage
+Armor/Helm/Shield: +5 to Max. Resist Cold
+Clvl Required: 57
+Lo - #28	R-lo.gif	R-ohm.gifR-ohm.gifDiamond-normal.gif	Weapon: 20% Chance of Deadly Strike
+Armor/Helm/Shield: +5 to Max. Resist Lightning
+Clvl Required: 59
+Sur - #29	R-sur.gif	R-lo.gifR-lo.gifTopaz-flawless.gif	Weapon: 20% Chance of Hit Blinds Target
+Armor/Helm: +5% total Mana
+Shields: +50 Mana
+Clvl Required: 61
+Ber - #30	R-ber.gif	R-sur.gifR-sur.gifAmethyst-flawless.gif	Weapon: 20% Chance of Crushing Blow
+Armor/Helm/Shield: Damage Reduced by 8%
+Clvl Required: 63
+Jah - #31	R-jo.gif	R-ber.gifR-ber.gifSapphire-flawless.gif	Weapon: Ignores Target Defense
+Armor/Helm: +5% of total Hit Points
+Shields: +50 Hit Points
+Clvl Required: 65
+Cham - #32	R-cham.gif	R-jo.gifR-jo.gifRuby-flawless.gif	Weapon: 32% Chance of Hit Freezing Target for 3 seconds
+Armor/Helm/Shield: Cannot be Frozen
+Clvl Required: 67
+Zod - #33	R-zod.gif	R-cham.gifR-cham.gifEmerald-flawless.gif	Weapon: Indestructible
+Armor/Helm/Shield: Indestructible
+Clvl Required: 69

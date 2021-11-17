@@ -1,0 +1,28 @@
+{% extends 'index.html' %}
+{% load rune_words %}
+{% load static %}
+
+{% block title %}Rune words{% endblock %}
+
+{% block body %}
+  <main role="main">
+    <div id="rune-filter" data-runes="{{runes}}"></div>
+    <table class="table">
+      {% for word in rune_words %}
+        <tr data-type="tr-rune-word" data-runes="{{ word.runes | m2m_fmt:"name, ,num" }}">
+          <td>
+            <p style="font-weight: bold">{{ word.name }}</p>
+            <p>{{ word.runes | m2m_fmt:"name,,num" }}</p>
+            <p>{% for rune in word.runes.all|order_by:"num" %} {{ rune.name }} ({{ rune.num }}) {% endfor %}</p>
+            <p>{{ word.weapons }}</p>
+            <p>Char level: {{ word.char_level }}</p>
+          </td>
+          <td>
+            {{ word.effect | linebreaks }}
+          </td>
+        </tr>
+      {% endfor %}
+    </table>
+  </main>
+  <script type="text/javascript" src="{% static 'js/rune_words.js' %}"></script>
+{% endblock %}
